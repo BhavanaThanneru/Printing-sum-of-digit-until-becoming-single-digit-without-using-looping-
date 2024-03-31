@@ -1,0 +1,1 @@
+# Printing-sum-of-digit-until-becoming-single-digit-without-using-looping-
